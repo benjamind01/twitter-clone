@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'chirp-bold-web';
+    src: local('chirp-bold-web'), url(./fonts/chirp-bold-web.ttf) format('ttf');
+}
